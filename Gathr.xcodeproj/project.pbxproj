@@ -7,13 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B12408331B3024D900967513 /* WhenMenuButton1TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B12408321B3024D900967513 /* WhenMenuButton1TableViewCell.m */; };
+		B12408361B3024F100967513 /* WhenMenuButton2TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B12408351B3024F100967513 /* WhenMenuButton2TableViewCell.m */; };
+		B12408391B30250100967513 /* WhenMenuButton3TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B12408381B30250100967513 /* WhenMenuButton3TableViewCell.m */; };
+		B124083C1B30251000967513 /* WhenMenuButton4TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B124083B1B30251000967513 /* WhenMenuButton4TableViewCell.m */; };
+		B124083F1B3025C200967513 /* WhereAutoCompleteTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B124083E1B3025C200967513 /* WhereAutoCompleteTableViewCell.m */; };
+		B12408421B3026AB00967513 /* WhereMenuButtonTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B12408411B3026AB00967513 /* WhereMenuButtonTableViewCell.m */; };
+		B128E8301B6B99B500DD368D /* Gathr Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = B128E82F1B6B99B500DD368D /* Gathr Logo.png */; };
+		B128E8351B6B9AE400DD368D /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B128E8321B6B9AE400DD368D /* FBSDKCoreKit.framework */; };
+		B128E8361B6B9AE400DD368D /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B128E8331B6B9AE400DD368D /* FBSDKLoginKit.framework */; };
+		B128E8371B6B9AE400DD368D /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B128E8341B6B9AE400DD368D /* FBSDKShareKit.framework */; };
+		B128E83B1B6B9E9100DD368D /* InitialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B128E83A1B6B9E9100DD368D /* InitialViewController.m */; };
+		B12F0FF21B5E1B19004037BB /* WhoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B12F0FF11B5E1B19004037BB /* WhoViewController.m */; };
+		B130A98A1B0B2C7D0063A394 /* Karla-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B130A9861B0B2C7D0063A394 /* Karla-Bold.ttf */; };
+		B130A98B1B0B2C7D0063A394 /* Karla-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B130A9871B0B2C7D0063A394 /* Karla-BoldItalic.ttf */; };
+		B130A98C1B0B2C7D0063A394 /* Karla-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B130A9881B0B2C7D0063A394 /* Karla-Italic.ttf */; };
+		B130A98D1B0B2C7D0063A394 /* Karla-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B130A9891B0B2C7D0063A394 /* Karla-Regular.ttf */; };
+		B130A9901B0B37880063A394 /* MenuButton1TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B130A98F1B0B37880063A394 /* MenuButton1TableViewCell.m */; };
+		B13177381B1F0D360059EF88 /* MenuButton2TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B13177371B1F0D360059EF88 /* MenuButton2TableViewCell.m */; };
+		B131773B1B1F0D470059EF88 /* MenuButton3TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B131773A1B1F0D470059EF88 /* MenuButton3TableViewCell.m */; };
 		B1406E791B0377D80087FE6C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B1406E781B0377D80087FE6C /* main.m */; };
 		B1406E7C1B0377D80087FE6C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B1406E7B1B0377D80087FE6C /* AppDelegate.m */; };
-		B1406E7F1B0377D80087FE6C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1406E7E1B0377D80087FE6C /* ViewController.m */; };
+		B1406E7F1B0377D80087FE6C /* WhatWhereWhenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1406E7E1B0377D80087FE6C /* WhatWhereWhenViewController.m */; };
 		B1406E821B0377D80087FE6C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1406E801B0377D80087FE6C /* Main.storyboard */; };
 		B1406E841B0377D80087FE6C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1406E831B0377D80087FE6C /* Images.xcassets */; };
 		B1406E871B0377D80087FE6C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B1406E851B0377D80087FE6C /* LaunchScreen.xib */; };
 		B1406E931B0377D80087FE6C /* GathrTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B1406E921B0377D80087FE6C /* GathrTests.m */; };
+		B15D135D1B1C2ACC004ACFA6 /* AutoCompleteTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B15D135C1B1C2ACC004ACFA6 /* AutoCompleteTableViewCell.m */; };
+		B1783FF21B6647E200B41C22 /* FriendsAutoCompleteTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B1783FF11B6647E200B41C22 /* FriendsAutoCompleteTableViewCell.m */; };
+		B1D1762B1B579EF7004FEAD7 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B1D1762A1B579EF7004FEAD7 /* CoreLocation.framework */; };
+		B1D176341B579F0A004FEAD7 /* SPGooglePlacesAutocompletePlace.m in Sources */ = {isa = PBXBuildFile; fileRef = B1D1762D1B579F0A004FEAD7 /* SPGooglePlacesAutocompletePlace.m */; };
+		B1D176351B579F0A004FEAD7 /* SPGooglePlacesAutocompleteQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = B1D1762F1B579F0A004FEAD7 /* SPGooglePlacesAutocompleteQuery.m */; };
+		B1D176361B579F0A004FEAD7 /* SPGooglePlacesAutocompleteUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = B1D176311B579F0A004FEAD7 /* SPGooglePlacesAutocompleteUtilities.m */; };
+		B1D176371B579F0A004FEAD7 /* SPGooglePlacesPlaceDetailQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = B1D176331B579F0A004FEAD7 /* SPGooglePlacesPlaceDetailQuery.m */; };
+		B1F25BC31B68FF9200F4E032 /* RideTheWaveButton1TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B1F25BC21B68FF9200F4E032 /* RideTheWaveButton1TableViewCell.m */; };
+		B1F25BC61B69059700F4E032 /* RideTheWaveButton2TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B1F25BC51B69059700F4E032 /* RideTheWaveButton2TableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,19 +55,66 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B12408311B3024D900967513 /* WhenMenuButton1TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhenMenuButton1TableViewCell.h; sourceTree = "<group>"; };
+		B12408321B3024D900967513 /* WhenMenuButton1TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhenMenuButton1TableViewCell.m; sourceTree = "<group>"; };
+		B12408341B3024F100967513 /* WhenMenuButton2TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhenMenuButton2TableViewCell.h; sourceTree = "<group>"; };
+		B12408351B3024F100967513 /* WhenMenuButton2TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhenMenuButton2TableViewCell.m; sourceTree = "<group>"; };
+		B12408371B30250100967513 /* WhenMenuButton3TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhenMenuButton3TableViewCell.h; sourceTree = "<group>"; };
+		B12408381B30250100967513 /* WhenMenuButton3TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhenMenuButton3TableViewCell.m; sourceTree = "<group>"; };
+		B124083A1B30251000967513 /* WhenMenuButton4TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhenMenuButton4TableViewCell.h; sourceTree = "<group>"; };
+		B124083B1B30251000967513 /* WhenMenuButton4TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhenMenuButton4TableViewCell.m; sourceTree = "<group>"; };
+		B124083D1B3025C200967513 /* WhereAutoCompleteTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhereAutoCompleteTableViewCell.h; sourceTree = "<group>"; };
+		B124083E1B3025C200967513 /* WhereAutoCompleteTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhereAutoCompleteTableViewCell.m; sourceTree = "<group>"; };
+		B12408401B3026AB00967513 /* WhereMenuButtonTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhereMenuButtonTableViewCell.h; sourceTree = "<group>"; };
+		B12408411B3026AB00967513 /* WhereMenuButtonTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhereMenuButtonTableViewCell.m; sourceTree = "<group>"; };
+		B128E82F1B6B99B500DD368D /* Gathr Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Gathr Logo.png"; path = "../../../Desktop/Gathr/Gathr Logo.png"; sourceTree = "<group>"; };
+		B128E8321B6B9AE400DD368D /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FBSDKCoreKit.framework; path = ../../FacebookSDK/FBSDKCoreKit.framework; sourceTree = "<group>"; };
+		B128E8331B6B9AE400DD368D /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FBSDKLoginKit.framework; path = ../../FacebookSDK/FBSDKLoginKit.framework; sourceTree = "<group>"; };
+		B128E8341B6B9AE400DD368D /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FBSDKShareKit.framework; path = ../../FacebookSDK/FBSDKShareKit.framework; sourceTree = "<group>"; };
+		B128E8391B6B9E9100DD368D /* InitialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InitialViewController.h; sourceTree = "<group>"; };
+		B128E83A1B6B9E9100DD368D /* InitialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InitialViewController.m; sourceTree = "<group>"; };
+		B12F0FF01B5E1B19004037BB /* WhoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhoViewController.h; sourceTree = "<group>"; };
+		B12F0FF11B5E1B19004037BB /* WhoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhoViewController.m; sourceTree = "<group>"; };
+		B130A9861B0B2C7D0063A394 /* Karla-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Karla-Bold.ttf"; sourceTree = "<group>"; };
+		B130A9871B0B2C7D0063A394 /* Karla-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Karla-BoldItalic.ttf"; sourceTree = "<group>"; };
+		B130A9881B0B2C7D0063A394 /* Karla-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Karla-Italic.ttf"; sourceTree = "<group>"; };
+		B130A9891B0B2C7D0063A394 /* Karla-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Karla-Regular.ttf"; sourceTree = "<group>"; };
+		B130A98E1B0B37880063A394 /* MenuButton1TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuButton1TableViewCell.h; sourceTree = "<group>"; };
+		B130A98F1B0B37880063A394 /* MenuButton1TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuButton1TableViewCell.m; sourceTree = "<group>"; };
+		B13177361B1F0D360059EF88 /* MenuButton2TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuButton2TableViewCell.h; sourceTree = "<group>"; };
+		B13177371B1F0D360059EF88 /* MenuButton2TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuButton2TableViewCell.m; sourceTree = "<group>"; };
+		B13177391B1F0D470059EF88 /* MenuButton3TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuButton3TableViewCell.h; sourceTree = "<group>"; };
+		B131773A1B1F0D470059EF88 /* MenuButton3TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuButton3TableViewCell.m; sourceTree = "<group>"; };
 		B1406E731B0377D80087FE6C /* Gathr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gathr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1406E771B0377D80087FE6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1406E781B0377D80087FE6C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B1406E7A1B0377D80087FE6C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B1406E7B1B0377D80087FE6C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B1406E7D1B0377D80087FE6C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		B1406E7E1B0377D80087FE6C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B1406E7D1B0377D80087FE6C /* WhatWhereWhenViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WhatWhereWhenViewController.h; sourceTree = "<group>"; };
+		B1406E7E1B0377D80087FE6C /* WhatWhereWhenViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WhatWhereWhenViewController.m; sourceTree = "<group>"; };
 		B1406E811B0377D80087FE6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B1406E831B0377D80087FE6C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B1406E861B0377D80087FE6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		B1406E8C1B0377D80087FE6C /* GathrTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GathrTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1406E911B0377D80087FE6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1406E921B0377D80087FE6C /* GathrTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GathrTests.m; sourceTree = "<group>"; };
+		B15D135B1B1C2ACC004ACFA6 /* AutoCompleteTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AutoCompleteTableViewCell.h; sourceTree = "<group>"; };
+		B15D135C1B1C2ACC004ACFA6 /* AutoCompleteTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AutoCompleteTableViewCell.m; sourceTree = "<group>"; };
+		B1783FF01B6647E200B41C22 /* FriendsAutoCompleteTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendsAutoCompleteTableViewCell.h; sourceTree = "<group>"; };
+		B1783FF11B6647E200B41C22 /* FriendsAutoCompleteTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendsAutoCompleteTableViewCell.m; sourceTree = "<group>"; };
+		B1D1762A1B579EF7004FEAD7 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		B1D1762C1B579F0A004FEAD7 /* SPGooglePlacesAutocompletePlace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SPGooglePlacesAutocompletePlace.h; path = "../../../Downloads/SPGooglePlacesAutocomplete-master/SPGooglePlacesAutocomplete/SPGooglePlacesAutocompletePlace.h"; sourceTree = "<group>"; };
+		B1D1762D1B579F0A004FEAD7 /* SPGooglePlacesAutocompletePlace.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SPGooglePlacesAutocompletePlace.m; path = "../../../Downloads/SPGooglePlacesAutocomplete-master/SPGooglePlacesAutocomplete/SPGooglePlacesAutocompletePlace.m"; sourceTree = "<group>"; };
+		B1D1762E1B579F0A004FEAD7 /* SPGooglePlacesAutocompleteQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SPGooglePlacesAutocompleteQuery.h; path = "../../../Downloads/SPGooglePlacesAutocomplete-master/SPGooglePlacesAutocomplete/SPGooglePlacesAutocompleteQuery.h"; sourceTree = "<group>"; };
+		B1D1762F1B579F0A004FEAD7 /* SPGooglePlacesAutocompleteQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SPGooglePlacesAutocompleteQuery.m; path = "../../../Downloads/SPGooglePlacesAutocomplete-master/SPGooglePlacesAutocomplete/SPGooglePlacesAutocompleteQuery.m"; sourceTree = "<group>"; };
+		B1D176301B579F0A004FEAD7 /* SPGooglePlacesAutocompleteUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SPGooglePlacesAutocompleteUtilities.h; path = "../../../Downloads/SPGooglePlacesAutocomplete-master/SPGooglePlacesAutocomplete/SPGooglePlacesAutocompleteUtilities.h"; sourceTree = "<group>"; };
+		B1D176311B579F0A004FEAD7 /* SPGooglePlacesAutocompleteUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SPGooglePlacesAutocompleteUtilities.m; path = "../../../Downloads/SPGooglePlacesAutocomplete-master/SPGooglePlacesAutocomplete/SPGooglePlacesAutocompleteUtilities.m"; sourceTree = "<group>"; };
+		B1D176321B579F0A004FEAD7 /* SPGooglePlacesPlaceDetailQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SPGooglePlacesPlaceDetailQuery.h; path = "../../../Downloads/SPGooglePlacesAutocomplete-master/SPGooglePlacesAutocomplete/SPGooglePlacesPlaceDetailQuery.h"; sourceTree = "<group>"; };
+		B1D176331B579F0A004FEAD7 /* SPGooglePlacesPlaceDetailQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SPGooglePlacesPlaceDetailQuery.m; path = "../../../Downloads/SPGooglePlacesAutocomplete-master/SPGooglePlacesAutocomplete/SPGooglePlacesPlaceDetailQuery.m"; sourceTree = "<group>"; };
+		B1F25BC11B68FF9200F4E032 /* RideTheWaveButton1TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RideTheWaveButton1TableViewCell.h; sourceTree = "<group>"; };
+		B1F25BC21B68FF9200F4E032 /* RideTheWaveButton1TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RideTheWaveButton1TableViewCell.m; sourceTree = "<group>"; };
+		B1F25BC41B69059700F4E032 /* RideTheWaveButton2TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RideTheWaveButton2TableViewCell.h; sourceTree = "<group>"; };
+		B1F25BC51B69059700F4E032 /* RideTheWaveButton2TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RideTheWaveButton2TableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +122,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B128E8371B6B9AE400DD368D /* FBSDKShareKit.framework in Frameworks */,
+				B1D1762B1B579EF7004FEAD7 /* CoreLocation.framework in Frameworks */,
+				B128E8351B6B9AE400DD368D /* FBSDKCoreKit.framework in Frameworks */,
+				B128E8361B6B9AE400DD368D /* FBSDKLoginKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,6 +139,68 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B12408431B3028C100967513 /* TableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				B130A98E1B0B37880063A394 /* MenuButton1TableViewCell.h */,
+				B130A98F1B0B37880063A394 /* MenuButton1TableViewCell.m */,
+				B13177361B1F0D360059EF88 /* MenuButton2TableViewCell.h */,
+				B13177371B1F0D360059EF88 /* MenuButton2TableViewCell.m */,
+				B13177391B1F0D470059EF88 /* MenuButton3TableViewCell.h */,
+				B131773A1B1F0D470059EF88 /* MenuButton3TableViewCell.m */,
+				B15D135B1B1C2ACC004ACFA6 /* AutoCompleteTableViewCell.h */,
+				B15D135C1B1C2ACC004ACFA6 /* AutoCompleteTableViewCell.m */,
+				B12408401B3026AB00967513 /* WhereMenuButtonTableViewCell.h */,
+				B12408411B3026AB00967513 /* WhereMenuButtonTableViewCell.m */,
+				B124083D1B3025C200967513 /* WhereAutoCompleteTableViewCell.h */,
+				B124083E1B3025C200967513 /* WhereAutoCompleteTableViewCell.m */,
+				B12408311B3024D900967513 /* WhenMenuButton1TableViewCell.h */,
+				B12408321B3024D900967513 /* WhenMenuButton1TableViewCell.m */,
+				B12408341B3024F100967513 /* WhenMenuButton2TableViewCell.h */,
+				B12408351B3024F100967513 /* WhenMenuButton2TableViewCell.m */,
+				B12408371B30250100967513 /* WhenMenuButton3TableViewCell.h */,
+				B12408381B30250100967513 /* WhenMenuButton3TableViewCell.m */,
+				B124083A1B30251000967513 /* WhenMenuButton4TableViewCell.h */,
+				B124083B1B30251000967513 /* WhenMenuButton4TableViewCell.m */,
+				B1783FF01B6647E200B41C22 /* FriendsAutoCompleteTableViewCell.h */,
+				B1783FF11B6647E200B41C22 /* FriendsAutoCompleteTableViewCell.m */,
+				B1F25BC11B68FF9200F4E032 /* RideTheWaveButton1TableViewCell.h */,
+				B1F25BC21B68FF9200F4E032 /* RideTheWaveButton1TableViewCell.m */,
+				B1F25BC41B69059700F4E032 /* RideTheWaveButton2TableViewCell.h */,
+				B1F25BC51B69059700F4E032 /* RideTheWaveButton2TableViewCell.m */,
+			);
+			name = TableViewCells;
+			sourceTree = "<group>";
+		};
+		B128E8311B6B99BD00DD368D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B128E82F1B6B99B500DD368D /* Gathr Logo.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		B128E8381B6B9AED00DD368D /* Facebook SDK */ = {
+			isa = PBXGroup;
+			children = (
+				B128E8321B6B9AE400DD368D /* FBSDKCoreKit.framework */,
+				B128E8331B6B9AE400DD368D /* FBSDKLoginKit.framework */,
+				B128E8341B6B9AE400DD368D /* FBSDKShareKit.framework */,
+			);
+			name = "Facebook SDK";
+			sourceTree = "<group>";
+		};
+		B12BA27C1B0B2AAB00998235 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				B130A9861B0B2C7D0063A394 /* Karla-Bold.ttf */,
+				B130A9871B0B2C7D0063A394 /* Karla-BoldItalic.ttf */,
+				B130A9881B0B2C7D0063A394 /* Karla-Italic.ttf */,
+				B130A9891B0B2C7D0063A394 /* Karla-Regular.ttf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
 		B1406E6A1B0377D80087FE6C = {
 			isa = PBXGroup;
 			children = (
@@ -81,10 +222,19 @@
 		B1406E751B0377D80087FE6C /* Gathr */ = {
 			isa = PBXGroup;
 			children = (
+				B128E8381B6B9AED00DD368D /* Facebook SDK */,
+				B128E8311B6B99BD00DD368D /* Images */,
+				B1D176381B579F11004FEAD7 /* SP Google Place */,
+				B12BA27C1B0B2AAB00998235 /* Fonts */,
 				B1406E7A1B0377D80087FE6C /* AppDelegate.h */,
 				B1406E7B1B0377D80087FE6C /* AppDelegate.m */,
-				B1406E7D1B0377D80087FE6C /* ViewController.h */,
-				B1406E7E1B0377D80087FE6C /* ViewController.m */,
+				B128E8391B6B9E9100DD368D /* InitialViewController.h */,
+				B128E83A1B6B9E9100DD368D /* InitialViewController.m */,
+				B12F0FF01B5E1B19004037BB /* WhoViewController.h */,
+				B12F0FF11B5E1B19004037BB /* WhoViewController.m */,
+				B1406E7D1B0377D80087FE6C /* WhatWhereWhenViewController.h */,
+				B1406E7E1B0377D80087FE6C /* WhatWhereWhenViewController.m */,
+				B12408431B3028C100967513 /* TableViewCells */,
 				B1406E801B0377D80087FE6C /* Main.storyboard */,
 				B1406E831B0377D80087FE6C /* Images.xcassets */,
 				B1406E851B0377D80087FE6C /* LaunchScreen.xib */,
@@ -96,6 +246,7 @@
 		B1406E761B0377D80087FE6C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B1D1762A1B579EF7004FEAD7 /* CoreLocation.framework */,
 				B1406E771B0377D80087FE6C /* Info.plist */,
 				B1406E781B0377D80087FE6C /* main.m */,
 			);
@@ -117,6 +268,21 @@
 				B1406E911B0377D80087FE6C /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B1D176381B579F11004FEAD7 /* SP Google Place */ = {
+			isa = PBXGroup;
+			children = (
+				B1D1762C1B579F0A004FEAD7 /* SPGooglePlacesAutocompletePlace.h */,
+				B1D1762D1B579F0A004FEAD7 /* SPGooglePlacesAutocompletePlace.m */,
+				B1D1762E1B579F0A004FEAD7 /* SPGooglePlacesAutocompleteQuery.h */,
+				B1D1762F1B579F0A004FEAD7 /* SPGooglePlacesAutocompleteQuery.m */,
+				B1D176301B579F0A004FEAD7 /* SPGooglePlacesAutocompleteUtilities.h */,
+				B1D176311B579F0A004FEAD7 /* SPGooglePlacesAutocompleteUtilities.m */,
+				B1D176321B579F0A004FEAD7 /* SPGooglePlacesPlaceDetailQuery.h */,
+				B1D176331B579F0A004FEAD7 /* SPGooglePlacesPlaceDetailQuery.m */,
+			);
+			name = "SP Google Place";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +365,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B128E8301B6B99B500DD368D /* Gathr Logo.png in Resources */,
 				B1406E821B0377D80087FE6C /* Main.storyboard in Resources */,
 				B1406E871B0377D80087FE6C /* LaunchScreen.xib in Resources */,
+				B130A98C1B0B2C7D0063A394 /* Karla-Italic.ttf in Resources */,
+				B130A98B1B0B2C7D0063A394 /* Karla-BoldItalic.ttf in Resources */,
+				B130A98D1B0B2C7D0063A394 /* Karla-Regular.ttf in Resources */,
 				B1406E841B0377D80087FE6C /* Images.xcassets in Resources */,
+				B130A98A1B0B2C7D0063A394 /* Karla-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +390,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B1406E7F1B0377D80087FE6C /* ViewController.m in Sources */,
+				B1F25BC61B69059700F4E032 /* RideTheWaveButton2TableViewCell.m in Sources */,
+				B12408391B30250100967513 /* WhenMenuButton3TableViewCell.m in Sources */,
+				B131773B1B1F0D470059EF88 /* MenuButton3TableViewCell.m in Sources */,
+				B130A9901B0B37880063A394 /* MenuButton1TableViewCell.m in Sources */,
+				B15D135D1B1C2ACC004ACFA6 /* AutoCompleteTableViewCell.m in Sources */,
+				B1F25BC31B68FF9200F4E032 /* RideTheWaveButton1TableViewCell.m in Sources */,
+				B1406E7F1B0377D80087FE6C /* WhatWhereWhenViewController.m in Sources */,
 				B1406E7C1B0377D80087FE6C /* AppDelegate.m in Sources */,
+				B1D176361B579F0A004FEAD7 /* SPGooglePlacesAutocompleteUtilities.m in Sources */,
+				B124083C1B30251000967513 /* WhenMenuButton4TableViewCell.m in Sources */,
 				B1406E791B0377D80087FE6C /* main.m in Sources */,
+				B12408331B3024D900967513 /* WhenMenuButton1TableViewCell.m in Sources */,
+				B1D176341B579F0A004FEAD7 /* SPGooglePlacesAutocompletePlace.m in Sources */,
+				B124083F1B3025C200967513 /* WhereAutoCompleteTableViewCell.m in Sources */,
+				B1D176351B579F0A004FEAD7 /* SPGooglePlacesAutocompleteQuery.m in Sources */,
+				B12F0FF21B5E1B19004037BB /* WhoViewController.m in Sources */,
+				B1783FF21B6647E200B41C22 /* FriendsAutoCompleteTableViewCell.m in Sources */,
+				B1D176371B579F0A004FEAD7 /* SPGooglePlacesPlaceDetailQuery.m in Sources */,
+				B13177381B1F0D360059EF88 /* MenuButton2TableViewCell.m in Sources */,
+				B128E83B1B6B9E9100DD368D /* InitialViewController.m in Sources */,
+				B12408421B3026AB00967513 /* WhereMenuButtonTableViewCell.m in Sources */,
+				B12408361B3024F100967513 /* WhenMenuButton2TableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +478,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -330,6 +521,7 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -347,6 +539,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Vanaja/Documents/FacebookSDK,
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				INFOPLIST_FILE = Gathr/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -357,6 +554,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Vanaja/Documents/FacebookSDK,
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				INFOPLIST_FILE = Gathr/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -416,6 +618,7 @@
 				B1406E981B0377D80087FE6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B1406E991B0377D80087FE6C /* Build configuration list for PBXNativeTarget "GathrTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +627,7 @@
 				B1406E9B1B0377D80087FE6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
